@@ -1,5 +1,5 @@
 # pokedex-android
-Projeto de Estudo
+Projeto de Estudo - Aula de Paulo Salvatore
 
 
 Retrofit e GSON para Requisições na Poke Api
